@@ -1,6 +1,8 @@
 # URFD-Dataset
 Dataset for Slender Urban Road Facility Extraction in Oblique Aerial Images.
 
+
+### 1. Introduction
 We construct URFD dataset for slender urban road facility extraction in oOblique aerial images. Specifically, we first use the Shuangyu data collection platform carried on a DJI M600 UAV to collect oblique aerial images with a size of 7952*5304$ pixels. Then, we crop them into a size of 512*512 pixels and select 1075 images containing urban road facilities with different types and shooting angles. At last, we manually annotated the bounding box and binary mask of targets using Labelme, a graphical image annotation tool.
 
 
@@ -8,13 +10,11 @@ In general, URFD is a complement of the real-world oblique aerial imagery datase
 
 Examples of URFD are shown as the figure below.
 
-<img src=" " width="300px">
+<img src="https://github.com/zmaomia/URFD-Dataset/blob/main/URFD%20examples.png" width="300px">
 
 ### 2. Dataset Download
 (1) Via Google drive
 
+### Paper
+URFD is introduced by Mao et al. in "Improved Instance Segmentation for Slender Urban Road Facility Extraction Using Oblique Aerial Images" 
 
-(2) Via 百度网盘
-
-链接：
-提取码
