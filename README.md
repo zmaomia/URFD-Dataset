@@ -12,6 +12,8 @@ Examples of URFD are shown as the figure below.
 
 <img src="https://github.com/zmaomia/URFD-Dataset/blob/main/URFD%20examples.png" width="900px">
 
+Specifically, we divide each category based on its intended use, appearance, and shape features. \textit{Street lamp A} is the double-arm street lamp that stands on high streets. \textit{Street lamp B} is the single-arm street lamp that is built on the main road in cities. \textit{Street lamp C} has multiple light sources and is usually used on high-speed roads, taller than \textit{Street lamp B}. \textit{Street lamp D} is comparably short and built on the pavements for pedestrians. \textit{Monitor A}, shorter than \textit{Monitor B}, is mainly used for public security monitoring, while \textit{Monitor B} is built along the road and is mainly used for traffic monitoring. \textit{Traffic light A} is used for motor vehicles, while \textit{Traffic light B} is used for pedestrians crossing the road.
+
 ### 2. Dataset Download
 (1) Via Google drive
  To be updated.
