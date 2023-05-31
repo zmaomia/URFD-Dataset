@@ -15,9 +15,13 @@ Specifically, we divide each category based on its intended use, appearance, and
 
 ### 2. Dataset Download
 (1) Via Google drive
- To be updated.
-
+ Download link: https://drive.google.com/file/d/14tFg8eIkztBmv6XUslSqTufPm4Gv9vhC/view?usp=drive_link
+ 
+(2) Via 百度网盘：
+链接：https://pan.baidu.com/s/1o5pbKoz2kHzK8gAbleUfwA 
+提取码：rsdd 
 
 ### 3. Paper
 URFD is introduced by Mao et al. in "Improved Instance Segmentation for Slender Urban Road Facility Extraction Using Oblique Aerial Images" 
+Paper link: https://www.sciencedirect.com/science/article/pii/S1569843223001863
 
